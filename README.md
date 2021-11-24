@@ -65,7 +65,7 @@ _Art credits to my friend [Steph](https://www.instagram.com/wynn_stickers/)._
 
 I made a mix of low and high fidelity wireframes for the pages of my website. The final product looks mostly like this, but I did make some small changes.
 
-<img alt="Wireframe" src="./img/readme/wireframe-home-desktop.png" >
+<img alt="Wireframe" src="./img/readme/jayscreen.png">
 <img alt="Wireframe" src="./img/readme/wireframe-home-mobile.png" >
 <img alt="Wireframe" src="./img/readme/wireframe-about-desktop.png" >
 <img alt="Wireframe" src="./img/readme/wireframe-photos-desktop.png" >
