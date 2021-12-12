@@ -14,6 +14,7 @@ function toggleMenu() {
         // add x (close menu) icon
         toggle.innerHTML = `<i class="fas fa-times"></i>`;
     }
+    
 }
 
 toggle.addEventListener("click", toggleMenu, false);
