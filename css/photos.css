@@ -27,6 +27,6 @@
 
 @media only screen and (min-width: 1024px) {
     .photo-grid-container {
-        column-count: 4;
+        column-count: 2;
     }
 }
